@@ -62,5 +62,66 @@ Welcome to my **LeetCode Practice** repository! 🚀 This is where I document my
 ## 🌱 **How to Use**
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/saiabhishek-dev01/Python_codes.git
+    ```bash
+    git clone https://github.com/saiabhishek-dev01/Python_codes.git
+    ```
+2. **Navigate to Topics**:  
+    Each topic is stored in a folder for easy access (e.g., `arrays_and_strings`, `dynamic_programming`).
+
+3. **Run the Code**:  
+    Ensure you have Python 3.x installed and run the scripts using:  
+    ```bash
+    python problem_name.py
+    ```
+
+4. **Install Dependencies**:  
+    If dependencies are required, install them via:  
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+---
+
+## 🤝 **Contributing**
+
+Contributions are welcome! If you’d like to share optimized solutions or new approaches:
+1. **Fork the repository** by clicking the "Fork" button at the top-right of this page.  
+2. **Create a new branch** for your feature or bug fix:
+    ```bash
+    git checkout -b feature-name
+    ```
+3. **Make your changes**, commit them, and push to your fork:
+    ```bash
+    git add .
+    git commit -m "Added feature-name"
+    git push origin feature-name
+    ```
+4. **Submit a Pull Request** explaining your changes and their benefits.
+
+---
+
+## 🌐 **Let’s Connect!**
+
+<div align="center">
+    <a href="https://linkedin.com/in/sai-abhishek-chakka" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.leetcode.com/saiabhishekchakka" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://github.com/saiabhishek-dev01" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+</div>
+
+---
+
+## 📄 **License**
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 📧 **Contact**
+
+Reach out at **[saiabhishek0119@gmail.com](mailto:saiabhishek0119@gmail.com)** for queries, discussions, or collaborations!
