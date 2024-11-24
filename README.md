@@ -30,7 +30,7 @@ Welcome to my **LeetCode Practice** repository! 🚀 This is where I document my
 | Dynamic Programming      | ✅ 15               | 🟡 In Progress         |
 | Graph Algorithms         | ✅ 10               | 🟡 In Progress         |
 | Sorting and Searching    | ✅ 12               | 🟢 Completed           |
-| Tree and BST             | ✅ 8                | 🔵 Research Phase      |
+| Tree and BST             | ✅ 8                | 🟡 In Progress         |
 
 ---
 
