@@ -25,6 +25,8 @@ Welcome to my **LeetCode Practice** repository! 🚀 This is where I document my
 - Share optimized solutions for popular LeetCode problems.
 - Encourage others to learn and contribute!
 
+- A detailed blog coming soon about my coding journey!
+
 ---
 
 ## 🏆 **Progress Tracker**
